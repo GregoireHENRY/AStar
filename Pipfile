@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[requires]
+
+[packages]
+
+[dev-packages]
+black = "*"
+isort = "*"
+mypy = "*"
+pre-commit = "*"
+pytest = "*"
+pytest-cov = "*"
+pylint = "*"
+pudb = "*"
